@@ -11,7 +11,7 @@ If you're seeing this, you've probably already done this step. Congrats!
 npx sv create
 
 # create a new project in Aimer
-npx sv create Aimer
+npx sv create AimMechanics
 ```
 
 ## Developing
